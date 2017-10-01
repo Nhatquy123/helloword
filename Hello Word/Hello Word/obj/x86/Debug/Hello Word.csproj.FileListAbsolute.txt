@@ -1,0 +1,7 @@
+C:\Users\PLH\Documents\GitHub\contactsapp\helloword\Hello Word\Hello Word\bin\Debug\Hello Word.exe
+C:\Users\PLH\Documents\GitHub\contactsapp\helloword\Hello Word\Hello Word\bin\Debug\Hello Word.pdb
+C:\Users\PLH\Documents\GitHub\contactsapp\helloword\Hello Word\Hello Word\obj\x86\Debug\Hello_Word.frmHelloWord.resources
+C:\Users\PLH\Documents\GitHub\contactsapp\helloword\Hello Word\Hello Word\obj\x86\Debug\Hello_Word.Properties.Resources.resources
+C:\Users\PLH\Documents\GitHub\contactsapp\helloword\Hello Word\Hello Word\obj\x86\Debug\Hello Word.csproj.GenerateResource.Cache
+C:\Users\PLH\Documents\GitHub\contactsapp\helloword\Hello Word\Hello Word\obj\x86\Debug\Hello Word.exe
+C:\Users\PLH\Documents\GitHub\contactsapp\helloword\Hello Word\Hello Word\obj\x86\Debug\Hello Word.pdb
